@@ -7,7 +7,7 @@ about:
   head: 903b33e
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:30:45Z
+  collectedAt: 2026-09-04T21:06:35Z
 timeline:
   created: 2016-07-28
   lastCommit: 2026-03-02
@@ -77,6 +77,19 @@ total:
   openIssue: 817
   commit: 80
 ---
+path: /home/runner/.x-repo/github.com/docker/for-mac
+collectedAt: 2026-09-04T21:06:35Z
+loc:
+  Markdown:
+    code: 0
+    comments: 79
+    blanks: 31
+    files: 3
+total:
+  code: 0
+  comments: 79
+  blanks: 31
+  files: 3
 ---
 date: "2026-08-24"
 repo:
