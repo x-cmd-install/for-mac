@@ -5,7 +5,7 @@ about:
   head: 903b33e
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T04:28:58Z
+  collectedAt: 2026-09-07T19:52:00Z
 timeline:
   created: 2016-07-28
   lastCommit: 2026-03-02
@@ -76,7 +76,7 @@ total:
   commit: 80
 ---
 path: /home/runner/.x-repo/github.com/docker/for-mac
-collectedAt: 2026-09-07T04:28:59Z
+collectedAt: 2026-09-07T19:52:00Z
 loc:
   Markdown:
     code: 0
@@ -173,7 +173,7 @@ checks:
       - 'Warn: 0 commits out of 15 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:28:59+00:00
+  collectedAt: 2026-09-07T19:52:00+00:00
   platform:
     darwin/arm64:
       name:  null
