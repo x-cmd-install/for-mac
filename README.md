@@ -12,6 +12,16 @@ Bug reports for Docker Desktop for Mac
 x install for-mac
 ```
 
+## OpenSSF Scorecard
+
+Overall score: **3.5 / 10**
+
+Lowest-scoring checks:
+
+- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (2/10) — Found 6/21 approved changesets -- score normalized to 2
+
 ## Source
 
 - **Upstream**: <https://github.com/docker/for-mac>
@@ -30,19 +40,12 @@ x install for-mac
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 2 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 3 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 35 | 61 | 0 |
-
-## OpenSSF Scorecard
-
-Overall score: **3.5 / 10**
-
-Lowest-scoring checks:
-
-- **Dangerous-Workflow** (-1/10) — no workflows found
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (2/10) — Found 6/21 approved changesets -- score normalized to 2
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 3 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 3 | 0 |
+| last180d | 2026-03-15 | 0 | 0 | 0 | 3 | 6 | 0 |
+| 360d | 2025-09-16 | 0 | 0 | 0 | 35 | 61 | 0 |
+| last720d | 2024-09-21 | 0 | 1 | 1 | 155 | 255 | 4 |
 
 ## Improve this data
 
@@ -53,4 +56,4 @@ Install metadata for for-mac lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:16:34Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:11:56Z._
