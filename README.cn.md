@@ -18,9 +18,9 @@ x install for-mac
 
 评分最低的几项:
 
-- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (2/10) — Found 6/21 approved changesets -- score normalized to 2
+- **Maintained** (0/10) — 0 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 0
 
 ## 源代码
 
@@ -30,22 +30,22 @@ x install for-mac
 
 ## 流行度
 
-- **Star**: 2,531 · **Fork**: 133 · **开放 issue**: 7,702 · **贡献者**: 53
+- **Star**: 2,531 · **Fork**: 133 · **开放 issue**: 7,703 · **贡献者**: 53
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 27 · **开放 PR**: 1 · **已关闭 issue**: 6885 · **开放 issue**: 817 · **提交数**: 80
+- **发布数**: 0 · **已合并 PR**: 27 · **开放 PR**: 1 · **已关闭 issue**: 6885 · **开放 issue**: 818 · **提交数**: 80
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 0 | 0 | 0 | 2 | 0 |
-| last60d | 2026-07-17 | 0 | 0 | 0 | 0 | 3 | 0 |
-| 90d | 2026-06-17 | 0 | 0 | 0 | 0 | 3 | 0 |
-| last180d | 2026-03-19 | 0 | 0 | 0 | 3 | 6 | 0 |
-| 360d | 2025-09-20 | 0 | 0 | 0 | 35 | 58 | 0 |
-| last720d | 2024-09-25 | 0 | 1 | 1 | 151 | 253 | 4 |
+| 30d | 2026-08-17 | 0 | 0 | 0 | 0 | 3 | 0 |
+| last60d | 2026-07-18 | 0 | 0 | 0 | 0 | 4 | 0 |
+| 90d | 2026-06-18 | 0 | 0 | 0 | 0 | 4 | 0 |
+| last180d | 2026-03-20 | 0 | 0 | 0 | 3 | 7 | 0 |
+| 360d | 2025-09-21 | 0 | 0 | 0 | 35 | 59 | 0 |
+| last720d | 2024-09-26 | 0 | 1 | 1 | 151 | 254 | 4 |
 
 ## 改进这些数据
 
@@ -56,4 +56,4 @@ for-mac 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260915.yml` · 2026-09-15T04:47:19Z._
+_数据快照: `data/card/260916.yml` · 2026-09-16T04:52:05Z._
