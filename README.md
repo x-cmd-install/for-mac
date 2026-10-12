@@ -18,9 +18,9 @@ Overall score: **3.5 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (-1/10) — No tokens found
 - **Code-Review** (2/10) — Found 6/21 approved changesets -- score normalized to 2
+- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## Source
 
@@ -40,12 +40,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-08-12 | 0 | 0 | 0 | 0 | 3 | 0 |
-| 90d | 2026-07-13 | 0 | 0 | 0 | 0 | 4 | 0 |
-| last180d | 2026-04-14 | 0 | 0 | 0 | 0 | 7 | 0 |
-| 360d | 2025-10-16 | 0 | 0 | 0 | 26 | 46 | 0 |
-| last720d | 2024-10-21 | 0 | 1 | 1 | 144 | 237 | 4 |
+| 30d | 2026-09-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-08-13 | 0 | 0 | 0 | 0 | 3 | 0 |
+| 90d | 2026-07-14 | 0 | 0 | 0 | 0 | 4 | 0 |
+| last180d | 2026-04-15 | 0 | 0 | 0 | 0 | 7 | 0 |
+| 360d | 2025-10-17 | 0 | 0 | 0 | 26 | 46 | 0 |
+| last720d | 2024-10-22 | 0 | 1 | 1 | 143 | 235 | 4 |
 
 ## Improve this data
 
@@ -56,4 +56,4 @@ Install metadata for for-mac lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:37:51Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T05:48:47Z._
