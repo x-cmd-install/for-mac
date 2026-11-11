@@ -12,6 +12,16 @@ Bug reports for Docker Desktop for Mac
 x install for-mac
 ```
 
+## OpenSSF Scorecard 评分
+
+总评分: **3.5 / 10**
+
+评分最低的几项:
+
+- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Token-Permissions** (-1/10) — No tokens found
+- **Code-Review** (2/10) — Found 6/21 approved changesets -- score normalized to 2
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/docker/for-mac>
@@ -20,22 +30,22 @@ x install for-mac
 
 ## 流行度
 
-- **Star**: 2,527 · **Fork**: 134 · **开放 issue**: 7,702 · **贡献者**: 52
+- **Star**: 2,528 · **Fork**: 135 · **开放 issue**: 7,701 · **贡献者**: 52
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 27 · **开放 PR**: 1 · **已关闭 issue**: 6883 · **开放 issue**: 819 · **提交数**: 80
+- **发布数**: 0 · **已合并 PR**: 27 · **开放 PR**: 1 · **已关闭 issue**: 6883 · **开放 issue**: 818 · **提交数**: 80
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 2 | 0 |
-| last60d | 2026-09-11 | 0 | 0 | 0 | 0 | 3 | 0 |
-| 90d | 2026-08-12 | 0 | 0 | 0 | 0 | 5 | 0 |
-| last180d | 2026-05-14 | 0 | 0 | 0 | 0 | 7 | 0 |
-| 360d | 2025-11-15 | 0 | 0 | 0 | 23 | 35 | 0 |
-| last720d | 2024-11-20 | 0 | 1 | 1 | 137 | 217 | 4 |
+| 30d | 2026-10-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-12 | 0 | 0 | 0 | 0 | 2 | 0 |
+| 90d | 2026-08-13 | 0 | 0 | 0 | 0 | 4 | 0 |
+| last180d | 2026-05-15 | 0 | 0 | 0 | 0 | 6 | 0 |
+| 360d | 2025-11-16 | 0 | 0 | 0 | 23 | 32 | 0 |
+| last720d | 2024-11-21 | 0 | 1 | 1 | 137 | 216 | 4 |
 
 ## 改进这些数据
 
@@ -46,4 +56,4 @@ for-mac 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261110.yml` · 2026-11-10T07:12:28Z._
+_数据快照: `data/card/261111.yml` · 2026-11-11T06:07:28Z._
