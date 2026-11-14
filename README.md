@@ -30,22 +30,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,528 · **Forks**: 135 · **Open issues**: 7,702 · **Contributors**: 53
+- **Stars**: 2,528 · **Forks**: 135 · **Open issues**: 7,703 · **Contributors**: 53
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 27 · **Open PRs**: 1 · **Closed issues**: 6884 · **Open issues**: 818 · **Commits**: 80
+- **Releases**: 0 · **Merged PRs**: 27 · **Open PRs**: 1 · **Closed issues**: 6884 · **Open issues**: 819 · **Commits**: 80
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-14 | 0 | 0 | 0 | 0 | 2 | 0 |
-| 90d | 2026-08-15 | 0 | 0 | 0 | 0 | 4 | 0 |
-| last180d | 2026-05-17 | 0 | 0 | 0 | 0 | 5 | 0 |
-| 360d | 2025-11-18 | 0 | 0 | 0 | 23 | 31 | 0 |
-| last720d | 2024-11-23 | 0 | 1 | 1 | 137 | 214 | 4 |
+| 30d | 2026-10-15 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last60d | 2026-09-15 | 0 | 0 | 0 | 0 | 2 | 0 |
+| 90d | 2026-08-16 | 0 | 0 | 0 | 0 | 5 | 0 |
+| last180d | 2026-05-18 | 0 | 0 | 0 | 0 | 6 | 0 |
+| 360d | 2025-11-19 | 0 | 0 | 0 | 22 | 31 | 0 |
+| last720d | 2024-11-24 | 0 | 1 | 1 | 137 | 215 | 4 |
 
 ## Improve this data
 
@@ -56,4 +56,4 @@ Install metadata for for-mac lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:30:03Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:19:19Z._
